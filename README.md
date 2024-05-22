@@ -43,6 +43,5 @@ To do this, follow these steps:
 ```
 
 
-### Pixel Art Assets\
----
+### Pixel Art Assets
 - Created by Brackeys: https://www.youtube.com/@Brackeys
