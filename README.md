@@ -1,4 +1,4 @@
-# Simulacion_IA_NPC
+# Simulation_IA_NPC
 Class taken at Universidad Panamericana. 
 - Professor: Gabriel Castillo
 
