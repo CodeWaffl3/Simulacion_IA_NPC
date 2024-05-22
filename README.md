@@ -1,5 +1,6 @@
 # Simulacion_IA_NPC
-Class taken at Universidad Panamericana
+Class taken at Universidad Panamericana. 
+Professor: Gabriel Castillo
 
 ## Proyect Overview
 This project focuses on leveraging the power of OpenAI's advanced language model within the Unity game engine to create dynamic and interactive Non-Player Characters (NPCs). The primary objective is to enhance the realism and engagement of NPCs by enabling them to understand and respond to player inputs in a natural and contextually appropriate manner.
