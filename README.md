@@ -4,6 +4,9 @@ Class taken at Universidad Panamericana
 ## Proyect Overview
 This project focuses on leveraging the power of OpenAI's advanced language model within the Unity game engine to create dynamic and interactive Non-Player Characters (NPCs). The primary objective is to enhance the realism and engagement of NPCs by enabling them to understand and respond to player inputs in a natural and contextually appropriate manner.
 
+![Video_Parcial_Simulacion-ezgif com-video-to-gif-converter](https://github.com/CodeWaffl3/Simulacion_IA_NPC/assets/112717957/7f801731-f524-4168-b782-35011bb285a0)
+
+
 ### How to use
 
 YOU WILL NEED AN API KEY, FOR SECURITY REASONS WE DID NOT PROVIDE OUR API KEY!
